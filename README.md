@@ -1,2 +1,2 @@
-Hemanth Tattikota
+
 Language Detector
